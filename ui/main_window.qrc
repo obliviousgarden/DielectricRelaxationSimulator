@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Formula">
+    <file>img/central_distance.png</file>
+    <file>img/charging_energy.png</file>
+    <file>img/charging_energy_1.png</file>
+    <file>img/charging_energy_2.png</file>
+    <file>img/complex_permittivity.png</file>
+    <file>img/decay_rate.png</file>
+    <file>img/diameter_1.png</file>
+    <file>img/diameter_2.png</file>
+    <file>img/dielectric_relaxation_time_0.png</file>
+    <file>img/dielectric_relaxation_time_m.png</file>
+    <file>img/dielectric_strength.png</file>
+    <file>img/number_density.png</file>
+    <file>img/potential_height.png</file>
+    <file>img/spacing.png</file>
+    <file>img/volume.png</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>img/icon.ico</file>
+  </qresource>
+</RCC>
